@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: opx;
+    overflow: scroll;
+}
+.container{
+    border: 1px solid white;
+    align-items: center;
+}
+.container1{
+    border: 1px solid  #d6d85f;
+     width: 600px;
+    height: 750px;
+    margin: 50px ;
+    padding: 30px;
+    position: relative;
+    top: 20px;
+    left: 400px;
+}
+ p{
+    color:  black;
+}
+
+.line {
+border: 1px solid #d0d26e;
+background-color: #d0d26e;
+width:1600px;
+height:60px;
+position: fixed ;
+z-index: 80px;
+top: 0px;
+
+}
+h2{
+    color: white;
+    text-align:center;
+    position: relative;
+    top: 10px;
+    left: -50px;
+
+}

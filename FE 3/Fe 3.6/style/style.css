@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+border: 1px solid white;
+width: 500px;
+height: 800px;
+}
+.block1{
+    border: 1px solid rgb(225, 106, 106);
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 40px;
+    top: -20px;
+    z-index:5px;
+    background-color: rgb(225, 106, 106) ;
+}
+.block2{
+    border: 1px solid rgb(111, 126, 226);
+    width: 50px;
+    height: 50px;
+    position: relative;
+  top: 60px;
+    left: 70px;
+    z-index: 15px;
+
+    background-color: rgb(111, 126, 226) ;
+}
+
+.block3{
+    border: 1px solid rgb(105, 242, 132);
+    width: 50px;
+    height: 50px;
+    position: absolute;
+  top:90px;
+    left: 100px;
+
+    background-color: rgb(105, 242, 132); 
+
+}

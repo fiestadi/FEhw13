@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    border: 1px solid white;
+    margin: 1px;
+    padding: 1px;
+}
+.block{
+    margin: auto;
+    padding: 5px;
+    width: 500px;
+    height: 380px;
+    border: 1px solid rgb(107, 245, 159);
+    background-color:   rgb(107, 245, 159);
+
+}
+.block1{
+    border: 1px solid white;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 40px;
+    left: 50px;
+
+}
+.block2{
+    border: 1px solid white;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 200px;
+left: 300px;
+
+
+}

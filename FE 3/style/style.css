@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    border: 30px solid white;
+    
+
+}
+.container{
+    border: 1px solid white
+    
+}
+.block1{
+    margin: 1px;
+    padding: 10px;
+    width: 50px;
+    height: 50px;
+    border: 1px solid red;
+    position: fixed;
+    
+}
+.block2{
+    border: 1px solid blue;
+    /* /* padding: 10px;
+    margin: 65px; */
+    width: 50px;
+    height: 50px; 
+    position: relative;
+    left: 70px;
+    top: 70px;
+
+}
+.block3{
+    border: 1px solid green;
+    /* padding: 15px;
+    margin: 130px; */
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 140px;
+    top: 90px;
+
+}

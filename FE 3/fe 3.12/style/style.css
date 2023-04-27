@@ -1,0 +1,45 @@
+g: 0*{
+    margin: 0px;
+    paddinpx;
+    overflow: scroll;
+}
+.container{
+    border: 1px solid white;
+    align-items: center;
+}
+.container1{
+    border: 1px solid rgb(193, 69, 158);
+     border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+     width: 600px;
+    height: 900px;
+    margin: 20px ;
+    padding: 20px;
+    position: relative;
+    top: 20px;
+    left: 400px;
+}
+ p{
+    color:  rgba(75, 18, 43, 0.826);
+}
+h1{
+    color: rgb(193, 69, 158);
+}
+.kontakti {
+border: 1px solid rgb(193, 69, 158);
+background-color: rgb(193, 69, 158);
+width:1600px;
+height:60px;
+position: fixed ;
+z-index: 80px;
+top: 760px;
+
+}
+h2{
+    color: white;
+    text-align:center;
+    position: relative;
+    top: 10px;
+    
+
+}

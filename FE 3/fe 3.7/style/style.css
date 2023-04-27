@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    border: 1px solid white;
+    margin: 1x;
+    padding: 3px;
+}
+.block1{
+    border: 1px solid green;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+
+}
+.block2{
+border: 1px solid red;
+width: 100px;
+height: 100px;
+position: relative;
+top: 100px;
+left: 100px;
+}
